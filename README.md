@@ -22,7 +22,7 @@ Please [message me on LinkedIn](https://www.linkedin.com/in/david-lee-itpro/) if
 
 - [ISC2](https://www.isc2.org/)
 
-> (ISC)² is an international, nonprofit membership association for information security leaders like you. We’re committed to helping our members learn, grow and thrive. More than 150,000 certified members strong, we empower professionals who touch every aspect of information security. 
+  > (ISC)² is an international, nonprofit membership association for information security leaders like you. We’re committed to helping our members learn, grow and thrive. More than 150,000 certified members strong, we empower professionals who touch every aspect of information security. 
 
 - [Women of Security (WoSec)](https://www.womenofsecurity.com/)
 
@@ -30,8 +30,7 @@ Please [message me on LinkedIn](https://www.linkedin.com/in/david-lee-itpro/) if
 
 - [Women in Cybersecurity (WiCys)](https://www.wicys.org/)
 
-  > WiCyS is a community of engagement, encouragement and support for women in cybersecurity.
-Women in CyberSecurity (WiCyS) is the premier organization with international reach dedicated to bringing together women in cybersecurity from academia, research and industry to share knowledge, experience, networking and mentoring. Established in 2012 by Dr. Ambareen Siraj of Tennessee Tech University through a National Science Foundation grant, WiCyS is a non-profit organization offering many membership, sponsorship and collaboration benefits.
+  > WiCyS is a community of engagement, encouragement and support for women in cybersecurity. Women in CyberSecurity (WiCyS) is the premier organization with international reach dedicated to bringing together women in cybersecurity from academia, research and industry to share knowledge, experience, networking and mentoring. Established in 2012 by Dr. Ambareen Siraj of Tennessee Tech University through a National Science Foundation grant, WiCyS is a non-profit organization offering many membership, sponsorship and collaboration benefits.
 
 - [OWASP Foundation](https://owasp.org/)
 
