@@ -76,5 +76,19 @@ Credit goes to Sai Sharma for the above Discord recommendations.
 - [RSA Conference](https://www.rsaconference.com/usa)
 
   > For almost 30 years, RSA Conference has been a driving force behind the world’s cybersecurity agenda. The central point where people from around the world gather to share, learn and grow. And the place that provides a forum for innovation and partnership. It’s even more important today to have these points of connection, as cybersecurity has become more relevant across all aspects of our daily lives. Our commitment is to connect you to the most knowledgeable people and cutting-edge content that will empower you to stay ahead of cyberthreats and advance your career. The conversations and debates are not the perspective of RSA Conference but designed for open and honest dialog that often provide different/unique and sometimes opposing views in order to get to the heart of the problem and ultimately a creative/unbiased solution. 
-  
-Last updated 10/5/2020 by [David Lee](https://www.linkedin.com/in/david-lee-itpro/)
+
+## Threat Intelligence
+
+### Analysis
+
+https://www.virustotal.com/gui/
+https://www.hybrid-analysis.com/
+
+### Malware Samples
+
+https://bazaar.abuse.ch/
+http://vxvault.net/ViriList.php
+https://malshare.com/
+https://tracker.fumik0.com/malware
+
+Last updated 12/31/2020 by [David Lee](https://www.linkedin.com/in/david-lee-itpro/)
