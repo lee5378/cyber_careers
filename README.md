@@ -1,8 +1,23 @@
 # Cybersecurity Career Resources
 
-This is intended to be a curated list of professional organizations, conferences, technical events, and webinars that people can plug into in order to get more involved in the cyber industry.
+This is intended to be a curated list of professional organizations, conferences, technical events, online communities, and webinars that people can plug into in order to get more involved in the cyber industry.
 
 Please [message me on LinkedIn](https://www.linkedin.com/in/david-lee-itpro/) if you have suggestions for organizations to add to this list.
+
+## Discord Servers
+
+### Blue Team
+
+- [SecurityBlueTeam](https://lnkd.in/dGNJkAx)
+- [Cyber Warrior Studios](https://lnkd.in/dDUnU8H)
+- [CyberJobs](https://lnkd.in/duQj_Bt)
+- [Unofficial Rangeforce Community](https://lnkd.in/dyvU3Tn)
+- [Cyber Security Intelligence Exchange](https://lnkd.in/dgrwCnN)
+- Blue Team Village
+- Red Siege Infosec
+- TrustedSec
+
+Credit goes to Sai Sharma for the below recommendations.
 
 ## Full Directory of All Cyber Conferences
 
