@@ -17,7 +17,7 @@ Please [message me on LinkedIn](https://www.linkedin.com/in/david-lee-itpro/) if
 - Red Siege Infosec
 - TrustedSec
 
-Credit goes to Sai Sharma for the below recommendations.
+Credit goes to Sai Sharma for the above Discord recommendations.
 
 ## Full Directory of All Cyber Conferences
 
