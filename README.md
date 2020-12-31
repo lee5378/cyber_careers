@@ -4,6 +4,15 @@ This is intended to be a curated list of professional organizations, conferences
 
 Please [message me on LinkedIn](https://www.linkedin.com/in/david-lee-itpro/) if you have suggestions for organizations to add to this list.
 
+## Community Platforms
+
+- [Discord](https://discordapp.com/)
+- [Reddit](https://www.reddit.com/)
+- [Slack](https://slack.com/)
+- [IRC](https://hexchat.github.io/index.html)
+- [LinkedIn](https://www.linkedin.com/)
+- [Twitter](https://twitter.com/home)
+
 ## Discord Servers
 
 ### Blue Team
