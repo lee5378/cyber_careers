@@ -79,16 +79,25 @@ Credit goes to Sai Sharma for the above Discord recommendations.
 
 ## Threat Intelligence
 
+### Feeds to Follow
+
+- http://rules.emergingthreats.net/blockrules/compromised-ips.txt 
+- http://cybercrime-tracker.net/all.php 
+- https://raw.githubusercontent.com/pan-unit42/iocs/master/diamondfox/diamondfox_panels.txt 
+- https://ransomwaretracker.abuse.ch/feeds/csv/ 
+- http://reputation.alienvault.com/reputation.generic
+- https://urlhaus.abuse.ch/downloads/csv/
+
 ### Analysis
 
-https://www.virustotal.com/gui/
-https://www.hybrid-analysis.com/
+- https://www.virustotal.com/gui/
+- https://www.hybrid-analysis.com/
 
 ### Malware Samples
 
-https://bazaar.abuse.ch/
-http://vxvault.net/ViriList.php
-https://malshare.com/
-https://tracker.fumik0.com/malware
+- https://bazaar.abuse.ch/
+- http://vxvault.net/ViriList.php
+- https://malshare.com/
+- https://tracker.fumik0.com/malware
 
 Last updated 12/31/2020 by [David Lee](https://www.linkedin.com/in/david-lee-itpro/)
