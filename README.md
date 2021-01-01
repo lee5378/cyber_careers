@@ -40,6 +40,8 @@ Please [message me on LinkedIn](https://www.linkedin.com/in/david-lee-itpro/) if
 - [TryHackMe](https://tryhackme.com/)
 - [HackTheBox](https://www.hackthebox.eu/)
 - [OWASP WebGoat](https://owasp.org/www-project-webgoat/)
+- [PentesterLab](https://pentesterlab.com/)
+- [Flaws](http://flaws.cloud/)
 
 ## Podcasts
 
