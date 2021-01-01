@@ -4,9 +4,32 @@ This is intended to be a curated list of professional organizations, conferences
 
 Please [message me on LinkedIn](https://www.linkedin.com/in/david-lee-itpro/) if you have suggestions for organizations to add to this list.
 
+## Essential Tools
+
+- [Wireshark](https://www.wireshark.org/)
+- [Security Onion](https://securityonionsolutions.com/software/)
+- [pfSense](https://www.pfsense.org/)
+- [VirtualBox](https://www.virtualbox.org/)
+
+## Video Courses
+
+- [Udemy's Introduction to Cybersecurity](https://www.udemy.com/course/introduction-to-cyber-security-course/)
+
+## Practical Labs
+
+- [TryHackMe](https://tryhackme.com/)
+- [HackTheBox](https://www.hackthebox.eu/)
+- [OWASP WebGoat](https://owasp.org/www-project-webgoat/)
+
 ## Podcasts
 
+### Career Development
+
 - [Getting Into Infosec with Ayman Elsawah](https://open.spotify.com/show/4slobFrIzdwvvADeF7c8Nr?si=TdxC9KOMRxCu-2i6OMyw0Q)
+
+### Fun
+
+- [Darknet Diaries](https://open.spotify.com/show/4XPl3uEEL9hvqMkoZrzbx5?si=A6dTBGfxS9OP9SpkdTL3Dg)
 
 ## Books
 
