@@ -4,6 +4,10 @@ This is intended to be a curated list of professional organizations, conferences
 
 Please [message me on LinkedIn](https://www.linkedin.com/in/david-lee-itpro/) if you have suggestions for organizations to add to this list.
 
+## Podcasts
+
+- [Getting Into Infosec with Ayman Elsawah](https://open.spotify.com/show/4slobFrIzdwvvADeF7c8Nr?si=TdxC9KOMRxCu-2i6OMyw0Q)
+
 ## Books
 
 ### Beginner Certifications
@@ -15,6 +19,11 @@ Please [message me on LinkedIn](https://www.linkedin.com/in/david-lee-itpro/) if
 ### Career
 
 - Breaking In: A Practical Guide to Starting a Career in Information Security by Ayman Elsawah
+- [The Pentester BluePrint: Starting a Career as an Ethical Hacker by Phillip L. Wylie](https://www.amazon.com/Pentester-BluePrint-Starting-Career-Ethical-ebook/dp/B08M5KWCRR)
+
+### Technical
+
+- [AWS Penetration Testing by Jonathan Helmus](https://www.amazon.com/AWS-Penetration-Testing-strategies-Metasploit-ebook/dp/B08JVMY5Q5/ref=pd_sim_351_2/135-6453757-4570847?_encoding=UTF8&pd_rd_i=B08JVMY5Q5&pd_rd_r=3ff1b463-0ea4-4d85-81e3-4374e9128fc2&pd_rd_w=3g19J&pd_rd_wg=DDeBw&pf_rd_p=52622570-ce87-4046-87cf-402c2bd33577&pf_rd_r=BDA2BHND2BG9PCRBM9P4&psc=1&refRID=BDA2BHND2BG9PCRBM9P4)
 
 ### Fun Reads
 
