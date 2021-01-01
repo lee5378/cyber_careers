@@ -4,6 +4,23 @@ This is intended to be a curated list of professional organizations, conferences
 
 Please [message me on LinkedIn](https://www.linkedin.com/in/david-lee-itpro/) if you have suggestions for organizations to add to this list.
 
+## Books
+
+### Beginner Certifications
+
+- A+ All-In-One Study Guide
+- Network+ All-In-One Study Guide
+- Security+ All-In-One Study Guide
+
+### Career
+
+- Breaking In: A Practical Guide to Starting a Career in Information Security by Ayman Elsawah
+
+### Fun Reads
+
+- Sandworm by Andy Greenberg
+- The Cuckoo's Egg by Cliff Stoll
+
 ## Community Platforms
 
 - [Discord](https://discordapp.com/)
