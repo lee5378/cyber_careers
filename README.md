@@ -4,6 +4,26 @@ This is intended to be a curated list of professional organizations, conferences
 
 Please [message me on LinkedIn](https://www.linkedin.com/in/david-lee-itpro/) if you have suggestions for organizations to add to this list.
 
+## Job Data
+
+- [Cyber Seek](https://www.cyberseek.org/)
+
+## Resume Optimization
+
+- [Jobscan](https://www.jobscan.co/)
+
+## YouTube
+
+- [I.T Security Labs](https://www.youtube.com/channel/UCXPdZsu8g1nKerd-o5A75vA)
+- [Computerphile](https://www.youtube.com/user/Computerphile)
+- [Null Byte's Cyber Weapons Lab](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
+
+## Bootcamps
+
+- [Code Fellows - Seattle, WA](https://www.codefellows.org/)
+- [Flatiron School - Chicago, IL](https://flatironschool.com/)
+- [SecureSet - Denver, CO](https://secureset.com/)
+
 ## Essential Tools
 
 - [Wireshark](https://www.wireshark.org/)
