@@ -30,6 +30,8 @@ Bootcamp programs give you practical hands-on technical skills at a rapid pace. 
 
 ## Free Resources
 
+### Open Source
+
 Since the inception of the [GNU Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License), there has been a steady growth in free and open-source software. This means that the barrier to skill development has never been lower.
 
 - [Oracle VirtualBox](https://www.virtualbox.org/)
@@ -38,3 +40,16 @@ Since the inception of the [GNU Public License](https://en.wikipedia.org/wiki/GN
   - Linux distributions have come a long way since the GNU project was initially launched. With VirtualBox, we can run Linux distributions from the convenience of our home computer without major inconveniences of the past like dual-boot. Beginners should start with Ubuntu Desktop, which is most similar to the look and feel of operating systems you're probably familiar with already, like Windows and macOS.
 - [Github](https://github.com/)
   - Github has become the industry standard way of sharing open source software and scripts.
+
+### Communities
+
+Get plugged into active tech communities and events. Group membership is usually free and you'll get to interact with likeminded individuals.
+
+- [Discord](https://discordapp.com/)
+- [Eventbrite](https://www.eventbrite.com/)
+- [Reddit](https://www.reddit.com/)
+- [Slack](https://slack.com/)
+- [IRC](https://hexchat.github.io/index.html)
+- [LinkedIn](https://www.linkedin.com/)
+- [Meetup](https://www.meetup.com/)
+- [Twitter](https://twitter.com/home)
