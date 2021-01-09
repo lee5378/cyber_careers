@@ -1,6 +1,6 @@
-# Transitioning into Tech
+# Transitioning into Technology Operations
 
-If you're new to the tech world and looking to land your first tech job, take a look at these resources.
+If you're new to the tech world and looking to land your first tech job, take a look at these resources first.
 
 ## Certifications
 
@@ -8,18 +8,18 @@ Certifications are important to career progression in the IT and SecOps industri
 
 ### CompTIA
 
-CompTIA is a vendor-neutral certification body known most for its entry-level certifications.
+[CompTIA](https://www.comptia.org/home) is a vendor-neutral certification body known most for its entry-level certifications.
 
-- CompTIA IT Fundamentals (ITF+)
+- [CompTIA IT Fundamentals (ITF+)](https://www.comptia.org/certifications/it-fundamentals)
   - Consider ITF+ if you lack basic computer operations skills and are curious if an operations career is right for you. Non-technical folks should start here.
   
-- CompTIA A+
+- [CompTIA A+](https://www.comptia.org/certifications/a)
   - If you've never worked in IT operations, this will give you the fundamentals of service desk operations and endpoint support.
   
-- CompTIA Network+
+- [CompTIA Network+](https://www.comptia.org/certifications/network)
   - This one builds your knowledge of OSI layers and IP stack protocols. If you're completely new to tech, you may find this one difficult. Be sure to follow a study plan for this one.
   
-- CompTIA Security+
+- [CompTIA Security+](https://www.comptia.org/certifications/security)
   - Popular entry level cyber security certification required by DoD job listings. Be sure to follow a study plan for this one.
 
 ## Bootcamps
@@ -27,3 +27,14 @@ CompTIA is a vendor-neutral certification body known most for its entry-level ce
 Bootcamp programs give you practical hands-on technical skills at a rapid pace. They are generally very financially costly and quite demanding of student time and energy, but can be effective in helping one transition into tech quickly.
 
 - [Course Report: 35 Best Online Bootcamps](https://www.coursereport.com/best-online-bootcamps)
+
+## Free Resources
+
+Since the inception of the [GNU Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License), there has been a steady growth in free and open-source software. This means that the barrier to skill development has never been lower.
+
+- [Oracle VirtualBox](https://www.virtualbox.org/)
+  - VirtualBox is a locally-installed software application that lets you virtualize entire computers. This should be the first application you load on a homelab setup.
+- [Ubuntu Linux](https://ubuntu.com/)
+  - Linux distributions have come a long way since the GNU project was initially launched. With VirtualBox, we can run Linux distributions from the convenience of our home computer without major inconveniences of the past like dual-boot. Beginners should start with Ubuntu Desktop, which is most similar to the look and feel of operating systems you're probably familiar with already, like Windows and macOS.
+- [Github](https://github.com/)
+  - Github has become the industry standard way of sharing open source software and scripts.
