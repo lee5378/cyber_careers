@@ -38,6 +38,8 @@ Since the inception of the [GNU Public License](https://en.wikipedia.org/wiki/GN
   - VirtualBox is a locally-installed software application that lets you virtualize entire computers. This should be the first application you load on a homelab setup.
 - [Ubuntu Linux](https://ubuntu.com/)
   - Linux distributions have come a long way since the GNU project was initially launched. With VirtualBox, we can run Linux distributions from the convenience of our home computer without major inconveniences of the past like dual-boot. Beginners should start with Ubuntu Desktop, which is most similar to the look and feel of operating systems you're probably familiar with already, like Windows and macOS.
+- [Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/)
+  - Need Windows VMs? Check this out. Alternatively you can install Windows VMs from scratch with the Windows Media Creation Tool.
 - [Github](https://github.com/)
   - Github has become the industry standard way of sharing open source software and scripts.
 
