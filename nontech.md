@@ -8,7 +8,7 @@ Certifications are important to career progression in the IT and SecOps industri
 
 ### CompTIA
 
-CompTIA is a vendor-neutral certification body know for its entry-level certifications.
+CompTIA is a vendor-neutral certification body known most for its entry-level certifications.
 
 - CompTIA IT Fundamentals (ITF+)
   - Consider ITF+ if you lack basic computer operations skills and are curious if an operations career is right for you. Non-technical folks should start here.
@@ -21,3 +21,9 @@ CompTIA is a vendor-neutral certification body know for its entry-level certific
   
 - CompTIA Security+
   - Popular entry level cyber security certification required by DoD job listings. Be sure to follow a study plan for this one.
+
+## Bootcamps
+
+Bootcamp programs give you practical hands-on technical skills at a rapid pace. They are generally very financially costly and quite demanding of student time and energy, but can be effective in helping one transition into tech quickly.
+
+- [Course Report: 35 Best Online Bootcamps](https://www.coursereport.com/best-online-bootcamps)
