@@ -1,5 +1,7 @@
 # Transitioning into Technology Operations
 
+![img_01](../assets/code-1839406_640.jpg)
+
 If you're new to the tech world and looking to land your first tech job, take a look at these resources first.
 
 ## Certifications
