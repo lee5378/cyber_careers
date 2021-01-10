@@ -58,3 +58,10 @@ Skill Up
                                                                             <a href="https://alphacyberlabs.com/a-half-million-jobs-in-cybersecurity-here-are-the-five-important-things-you-need-to-know/" >
                                                                                     Read More                                        </a>
                                                     <!-- .elementskit-post-body END -->
+        https://www.youtube.com/watch?v=_BMNyiN6je4&#038;ab_channel=CSNP<h1>Cyber Security Non-Profit Podcast&nbsp;</h1><h3>Episode 5 | Eric Evans on The Rapid Move to Cloud</h3>
+    
+
+  
+
+
+In this episode of the CSNP Podcast, we interview Eric Evans of ScaleSec and discuss his thoughts on the rapid adoption of cloud tech and its ramifications for the training and professional development of cyber professionals worldwide.
