@@ -12,8 +12,9 @@ categories: [ ]
 ---
 Skill Up
 
-## Alpha Cyber Labs 
+## How to Install Ubuntu 20.10 
 
+        https://www.youtube.com/watch?v=3U7AbETZ2g8&#038;ab_channel=AlphaCyberLabs      
                             <a href="https://alphacyberlabs.com/about/" >
                     About               </a>
                             <a href="https://alphacyberlabs.com/blog/" >
