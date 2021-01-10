@@ -14,9 +14,7 @@ tags: [ ]
 categories:
   - Uncategorized
 ---
-# Transitioning into Technology Operations
-
-![img_01](../../_images/code-1839406_640.jpg)
+![img_01](../../images/code-1839406_640.jpg)
 
 If you're new to the tech world and looking to land your first tech job, take a look at these resources first.
 
