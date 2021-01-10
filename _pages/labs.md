@@ -12,14 +12,16 @@ categories: [ ]
 ---
 ## Labs 
 
-        <p><strong>Beginner Labs</strong></p>
+        <h1><strong style="">Beginner Labs</strong></h1>
     
 
-Lab 1: Virtualbox
+###   
 
-Overview:
 
-If you're wanting to get starting developing your cyber skills, one good way to get started is by setting up your home lab. We can use VirtualBox for this purpose.
+### Lab 1: VirtualBox
+
+If you're wanting to get starting developing your cyber skills, one good way to get started is by setting up your home lab. We can use VirtualBox for this purpose. Oracle's VirtualBox software has come a long ways since its early days, and is now a great tool for hosting multiple virtual machines on an isolated network.  
+
 
 Prerequisites:
 
@@ -30,6 +32,7 @@ Objectives:
 *   Install Oracle VirtualBox
 *   Deploy a Ubuntu Linux 20.10 VM
 
-More lab content on the way!
+  
+
 
 https://www.youtube.com/watch?v=3U7AbETZ2g8&feature=youtu.be&ab_channel=AlphaCyberLabs
