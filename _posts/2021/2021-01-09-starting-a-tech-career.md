@@ -71,5 +71,3 @@ Get plugged into active tech communities and events. Group membership is usually
 - [LinkedIn](https://www.linkedin.com/)
 - [Meetup](https://www.meetup.com/)
 - [Twitter](https://twitter.com/home)
-
-#
