@@ -12,6 +12,7 @@ categories: [ ]
 ---
 ## Events 
 
+            <h2>Seattle</h2>        
                                             <a href="https://www.meetup.com/Seattle-Cyber-Security-for-Control-Systems/events/275433594/">
                             <img width="300" height="169" src="https://alphacyberlabs.com/wp-content/uploads/2021/01/icsevent-300x169.jpg" alt="" loading="lazy" srcset="https://alphacyberlabs.com/wp-content/uploads/2021/01/icsevent-300x169.jpg 300w, https://alphacyberlabs.com/wp-content/uploads/2021/01/icsevent-768x433.jpg 768w, https://alphacyberlabs.com/wp-content/uploads/2021/01/icsevent.jpg 894w" sizes="(max-width: 300px) 100vw, 300px" />                              </a>
             <h2><a href="https://www.meetup.com/Seattle-Cyber-Security-for-Control-Systems/events/275433594/">(CS)2AI ONLINE- Mission Kill: Process Targeting in ICS Attacks, with Joe Slowik</a></h2>      
