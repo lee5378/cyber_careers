@@ -19,9 +19,6 @@ Skill Up
                     About               </a>
                             <a href="https://alphacyberlabs.com/blog/" >
                     BLOG                </a>
-            <h2>
-                    Blog Posts
-                </h2>       
                                                             <a href="https://alphacyberlabs.com/starting-a-tech-career/">
                                     <img src="https://alphacyberlabs.com/wp-content/uploads/2021/01/code-1839406_640.jpg" alt="Starting a Tech Career">
                                 </a><!-- .elementskit-entry-thumb END -->
