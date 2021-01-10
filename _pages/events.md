@@ -12,23 +12,29 @@ categories: [ ]
 ---
 ## Events 
 
+                                            <a href="https://www.meetup.com/Seattle-Cyber-Security-for-Control-Systems/events/275433594/">
+                            <img width="894" height="504" src="https://alphacyberlabs.com/wp-content/uploads/2021/01/icsevent.jpg" alt="" loading="lazy" srcset="https://alphacyberlabs.com/wp-content/uploads/2021/01/icsevent.jpg 894w, https://alphacyberlabs.com/wp-content/uploads/2021/01/icsevent-300x169.jpg 300w, https://alphacyberlabs.com/wp-content/uploads/2021/01/icsevent-768x433.jpg 768w" sizes="(max-width: 894px) 100vw, 894px" />                              </a>
             <h2><a href="https://www.meetup.com/Seattle-Cyber-Security-for-Control-Systems/events/275433594/">(CS)2AI ONLINE- Mission Kill: Process Targeting in ICS Attacks, with Joe Slowik</a></h2>      
             <h3>Thursday, January 14, 2021 from 10:00 AM to 11:30 AM PST</h3>       
             <h3>Typical conceptions of ICS targeting focus on direct disruption of organizations through a single, specific action resulting in complete operational loss: opening breakers to interrupt the flow of electricity, or tripping a safety system to shut down a plant. Yet further analysis of ICS events over time indicates adversaries are pursuing far more interesting - and ambitious - attack patterns in industrial environments.</h3>     
-                                            <a href="https://www.meetup.com/Seattle-Cyber-Security-for-Control-Systems/events/275433594/">
-                            <img width="894" height="504" src="https://alphacyberlabs.com/wp-content/uploads/2021/01/icsevent.jpg" alt="" loading="lazy" srcset="https://alphacyberlabs.com/wp-content/uploads/2021/01/icsevent.jpg 894w, https://alphacyberlabs.com/wp-content/uploads/2021/01/icsevent-300x169.jpg 300w, https://alphacyberlabs.com/wp-content/uploads/2021/01/icsevent-768x433.jpg 768w" sizes="(max-width: 894px) 100vw, 894px" />                              </a>
-            <h2><a href="https://www.meetup.com/Seattle-Cyber-Security-for-Control-Systems/events/275433594/">Seattle OpenSource Linux Monthly Meetup</a></h2>      
-            <h3>Monday, January 18, 2021 from 7:00 PM to 8:00 PM PST</h3>       
-            <h3>The Seattle OpenSource Linux Meetup is a fairly informal group of friendly Linux enthusiasts that gather to discuss a broad range of topics surrounding Linux and the open source universe. This is a great place to come and talk about your fav open source project, possibly get an answer to that question regarding some bash command that is giving you trouble or to come get some guidance as to where to start your own open source journey. Sometimes members will give talks about tools or projects they are excited about, it's definitely not unusual for members to cluster around a laptop to help solve another members software issues and the conversation is always lively.</h3>        
                                             <a href="https://www.meetup.com/tag-cybersecurity/events/275292478">
-                            <img width="474" height="317" src="https://alphacyberlabs.com/wp-content/uploads/2021/01/penguin.jpg" alt="" loading="lazy" srcset="https://alphacyberlabs.com/wp-content/uploads/2021/01/penguin.jpg 474w, https://alphacyberlabs.com/wp-content/uploads/2021/01/penguin-300x201.jpg 300w" sizes="(max-width: 474px) 100vw, 474px" />                              </a>
+                            <img width="819" height="478" src="https://alphacyberlabs.com/wp-content/uploads/2021/01/tag.jpg" alt="" loading="lazy" srcset="https://alphacyberlabs.com/wp-content/uploads/2021/01/tag.jpg 819w, https://alphacyberlabs.com/wp-content/uploads/2021/01/tag-300x175.jpg 300w, https://alphacyberlabs.com/wp-content/uploads/2021/01/tag-768x448.jpg 768w" sizes="(max-width: 819px) 100vw, 819px" />                              </a>
             <h2><a href="https://www.meetup.com/Seattle-Cyber-Security-for-Control-Systems/events/275433594/">TAG Cybersecurity: January 2021 "Security Tools Pot Luck"</a></h2>        
             <h3>Tuesday, January 19, 2021 from 7:00 PM to 9:00 PM PST</h3>      
             <h3>Join TAG Cybersecurity on January 19 @ 7 pm for our monthly meeting.
     
 
 For January’s TAG Cybersecurity, we are having a Pot Luck. Not a food Pot Luck, but a content Pot Luck. Everybody brings a 3-5 minute story on a single (broad) topic. The story can be about your experience, something interesting you’ve read about it, or the like. It can be a story of success, or failure (failure is always the best). It can be about something traditional and well-understood, or cutting-edge.  
-[ <img width="819" height="478" src="https://alphacyberlabs.com/wp-content/uploads/2021/01/tag.jpg" alt="" loading="lazy" srcset="https://alphacyberlabs.com/wp-content/uploads/2021/01/tag.jpg 819w, https://alphacyberlabs.com/wp-content/uploads/2021/01/tag-300x175.jpg 300w, https://alphacyberlabs.com/wp-content/uploads/2021/01/tag-768x448.jpg 768w" sizes="(max-width: 819px) 100vw, 819px" /> ][1] 
+[ <img width="474" height="317" src="https://alphacyberlabs.com/wp-content/uploads/2021/01/penguin.jpg" alt="" loading="lazy" srcset="https://alphacyberlabs.com/wp-content/uploads/2021/01/penguin.jpg 474w, https://alphacyberlabs.com/wp-content/uploads/2021/01/penguin-300x201.jpg 300w" sizes="(max-width: 474px) 100vw, 474px" /> ][1] 
+## [Seattle OpenSource Linux Monthly Meetup][2]
+
+  
+### Monday, January 18, 2021 from 7:00 PM to 8:00 PM PST
+
+  
+### The Seattle OpenSource Linux Meetup is a fairly informal group of friendly Linux enthusiasts that gather to discuss a broad range of topics surrounding Linux and the open source universe. This is a great place to come and talk about your fav open source project, possibly get an answer to that question regarding some bash command that is giving you trouble or to come get some guidance as to where to start your own open source journey. Sometimes members will give talks about tools or projects they are excited about, it's definitely not unusual for members to cluster around a laptop to help solve another members software issues and the conversation is always lively.
+
+  
 ## Full Directory of All Cyber Conferences
 
 <a href="https://infosec-conferences.com/country/united-states/" rel="nofollow">Infosec Conferences</a>
@@ -88,3 +94,4 @@ Originally started in 1993, it was a meant to be a party for member of "Platinum
 For almost 30 years, RSA Conference has been a driving force behind the world’s cybersecurity agenda. The central point where people from around the world gather to share, learn and grow. And the place that provides a forum for innovation and partnership. It’s even more important today to have these points of connection, as cybersecurity has become more relevant across all aspects of our daily lives. Our commitment is to connect you to the most knowledgeable people and cutting-edge content that will empower you to stay ahead of cyberthreats and advance your career. The conversations and debates are not the perspective of RSA Conference but designed for open and honest dialog that often provide different/unique and sometimes opposing views in order to get to the heart of the problem and ultimately a creative/unbiased solution.
 
  [1]: https://www.meetup.com/tag-cybersecurity/events/275292478
+ [2]: https://www.meetup.com/Seattle-Cyber-Security-for-Control-Systems/events/275433594/
