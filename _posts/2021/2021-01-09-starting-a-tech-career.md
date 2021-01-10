@@ -1,6 +1,22 @@
+---
+ID: 190
+post_title: >
+  Starting a Tech Career
+post_name: >
+  starting-a-tech-career
+author: cyberteach
+post_date: 2021-01-09 00:18:30
+layout: post
+link: >
+  https://alphacyberlabs.com/starting-a-tech-career/
+published: true
+tags: [ ]
+categories:
+  - Uncategorized
+---
 # Transitioning into Technology Operations
 
-![img_01](../_images/code-1839406_640.jpg)
+![img_01](../../_images/code-1839406_640.jpg)
 
 If you're new to the tech world and looking to land your first tech job, take a look at these resources first.
 
